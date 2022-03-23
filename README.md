@@ -1,1 +1,3 @@
 # PlagueRecognition
+
+Xamarin + CustomVision
