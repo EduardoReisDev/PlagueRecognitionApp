@@ -1,6 +1,20 @@
 ﻿<Properties StartupConfiguration="{68CBF36D-D7C8-4837-BD1F-41CF03E9B520}|Default">
-  <MonoDevelop.Ide.ItemProperties.PlagueRecognition.Android FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PlagueRecognition" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PlagueRecognition.Android FirstBuild="True" PreferredExecutionTarget="Android.Pixel_5" />
   <MonoDevelop.Ide.ItemProperties.PlagueRecognition.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.PlagueRecognition FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
