@@ -2,7 +2,46 @@
 <Application xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="PlagueRecognition.App">
-    <Application.Resources>
 
+    <Application.Resources>
+        <!--Colors-->
+        <Color x:Key="DarkGreen">#456C6F</Color>
+        <Color x:Key="Green">#538083</Color>
+        <Color x:Key="LightGrey">#DFD9E2</Color>
+
+        <!--NavBar on iOS-->
+        <Style TargetType="NavigationPage">
+            <Setter Property="BarBackgroundColor" Value="#538083"/>
+            <Setter Property="BarTextColor" Value="#DFD9E2"/>
+        </Style>
+
+        <!--Button-->
+        <Style x:Key="BaseButton" TargetType="Button">
+            <Setter Property="FontAttributes" Value="Bold"/>
+            <Setter Property="CornerRadius" Value="10"/>
+            <Setter Property="HorizontalOptions" Value="Center"/>
+            <Setter Property="VerticalOptions" Value="Center"/>
+            <Setter Property="Padding" Value="32,16"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="BackgroundColor" Value="{StaticResource DarkGreen}"/>
+            <Setter Property="TextColor" Value="{StaticResource LightGrey}"/>
+        </Style>
+
+        <!--Labels-->
+        <Style x:Key="PrimaryLabel" TargetType="Label">
+            <Setter Property="FontAttributes" Value="Bold"/>
+            <Setter Property="TextColor" Value="{StaticResource LightGrey}"/>
+            <Setter Property="FontSize" Value="22"/>
+            <Setter Property="HorizontalTextAlignment" Value="Center"/>
+        </Style>
+        <Style x:Key="SecondLabel" TargetType="Label">
+            <Setter Property="TextColor" Value="{StaticResource LightGrey}"/>
+            <Setter Property="HorizontalTextAlignment" Value="Center"/>
+        </Style>
+
+        <!--Image-->
+        <Style x:Key="PrimaryImage" TargetType="Image">
+            <Setter Property="WidthRequest" Value="120"/>
+        </Style>
     </Application.Resources>
 </Application>

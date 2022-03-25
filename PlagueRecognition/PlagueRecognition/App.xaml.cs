@@ -1,6 +1,5 @@
-﻿using System;
+﻿using PlagueRecognition.View;
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
 
 namespace PlagueRecognition
 {
@@ -10,7 +9,7 @@ namespace PlagueRecognition
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new HomePage());
         }
 
         protected override void OnStart()

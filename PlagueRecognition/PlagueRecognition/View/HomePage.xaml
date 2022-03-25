@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PlagueRecognition.View.HomePage"
+             BackgroundColor="{StaticResource Green}"
+             NavigationPage.HasNavigationBar="False">
+
+    <ContentPage.Content>
+        <Grid HorizontalOptions="Center"
+              VerticalOptions="Center">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Image Source="analysis.png"
+                   Style="{StaticResource PrimaryImage}"
+                   Grid.Row="0"/>
+            <Label Text="Bem-vindo ao"
+                   Style="{StaticResource SecondLabel}"
+                   Margin="0,20,0,0"
+                   Grid.Row="1"/>
+            <Label Text="Reconhecedor de pragas"
+                   Style="{StaticResource PrimaryLabel}"
+                   Margin="0,0,0,80"
+                   Grid.Row="2"/>
+            <Button Text="Escanear"
+                    Style="{StaticResource BaseButton}"
+                    Clicked="OpenCamera"
+                    Grid.Row="3"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

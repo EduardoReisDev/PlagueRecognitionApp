@@ -1,0 +1,17 @@
+/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition/bin/Debug/netstandard2.0/PlagueRecognition.deps.json
+/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition/bin/Debug/netstandard2.0/PlagueRecognition.dll
+/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition/bin/Debug/netstandard2.0/ref/PlagueRecognition.dll
+/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition/bin/Debug/netstandard2.0/PlagueRecognition.pdb
+/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition/obj/Debug/netstandard2.0/PlagueRecognition.csproj.AssemblyReference.cache
+/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition/obj/Debug/netstandard2.0/PlagueRecognition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition/obj/Debug/netstandard2.0/View/HealthyResultPage.xaml.g.cs
+/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition/obj/Debug/netstandard2.0/View/HomePage.xaml.g.cs
+/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition/obj/Debug/netstandard2.0/View/PlagueResultPage.xaml.g.cs
+/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition/obj/Debug/netstandard2.0/PlagueRecognition.AssemblyInfoInputs.cache
+/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition/obj/Debug/netstandard2.0/PlagueRecognition.AssemblyInfo.cs
+/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition/obj/Debug/netstandard2.0/PlagueRecognition.csproj.CoreCompileInputs.cache
+/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition/obj/Debug/netstandard2.0/PlagueRecognition.dll
+/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition/obj/Debug/netstandard2.0/ref/PlagueRecognition.dll
+/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition/obj/Debug/netstandard2.0/PlagueRecognition.pdb
