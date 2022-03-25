@@ -4,34 +4,21 @@
       <File FileName="PlagueRecognition/View/HealthyResultPage.xaml.cs" Line="8" Column="43" />
       <File FileName="PlagueRecognition/View/PlagueResultPage.xaml.cs" />
       <File FileName="PlagueRecognition/Constants/AppConstants.cs" />
-      <File FileName="PlagueRecognition/App.xaml.cs" Line="11" Column="1" />
+      <File FileName="PlagueRecognition/App.xaml.cs" Line="9" Column="10" />
       <File FileName="PlagueRecognition/View/HomePage.xaml" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="PlagueRecognition" expanded="True">
-            <Node name="PlagueRecognition" expanded="True">
-              <Node name="Constants" expanded="True" />
-              <Node name="View" expanded="True">
-                <Node name="HealthyResultPage.xaml" expanded="True" />
-                <Node name="HomePage.xaml" expanded="True" />
-                <Node name="PlagueResultPage.xaml" expanded="True" />
-              </Node>
-              <Node name="App.xaml" expanded="True">
-                <Node name="App.xaml.cs" selected="True" />
-              </Node>
-            </Node>
-            <Node name="PlagueRecognition.iOS" expanded="True">
-              <Node name="Resources" expanded="True" />
-            </Node>
+          <Node name="PlagueRecognition" expanded="True" selected="True">
+            <Node name="PlagueRecognition" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.PlagueRecognition.Android FirstBuild="True" PreferredExecutionTarget="Android.Pixel_5" />
-  <MonoDevelop.Ide.ItemProperties.PlagueRecognition.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.728153D9-9227-4327-8227-0CF1CFB67394" />
+  <MonoDevelop.Ide.ItemProperties.PlagueRecognition.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0BE45C74-27BB-430F-BDBD-2FF4E9DF5436" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
