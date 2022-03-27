@@ -1,17 +1,24 @@
 ﻿<Properties StartupConfiguration="{BD677953-577C-49B2-A0C8-C8682828AFBA}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PlagueRecognition/App.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlagueRecognition/Constants/CustomVision.cs">
     <Files>
       <File FileName="PlagueRecognition/View/HealthyResultPage.xaml.cs" Line="8" Column="43" />
       <File FileName="PlagueRecognition/View/PlagueResultPage.xaml.cs" />
-      <File FileName="PlagueRecognition/Constants/AppConstants.cs" />
-      <File FileName="PlagueRecognition/App.xaml.cs" Line="9" Column="10" />
+      <File FileName="PlagueRecognition/Constants/AppConstants.cs" Line="1" Column="1" />
+      <File FileName="PlagueRecognition/App.xaml.cs" Line="11" Column="1" />
       <File FileName="PlagueRecognition/View/HomePage.xaml" />
+      <File FileName="PlagueRecognition/Constants/CustomVision.cs" Line="13" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="PlagueRecognition" expanded="True" selected="True">
-            <Node name="PlagueRecognition" expanded="True" />
+          <Node name="PlagueRecognition" expanded="True">
+            <Node name="PlagueRecognition" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Constants" expanded="True">
+                <Node name="CustomVision.cs" selected="True" />
+              </Node>
+              <Node name="Model" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
