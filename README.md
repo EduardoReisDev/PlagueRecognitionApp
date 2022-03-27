@@ -22,3 +22,5 @@ Aplicativo desenvolvido em Xamarin.Forms (iOS e Android) com CustomVision para r
 
 ### Performace
 ![image](https://user-images.githubusercontent.com/52722526/160289685-31dd8857-9365-44da-b1db-d0f35485187b.png)
+
+## Resultado
