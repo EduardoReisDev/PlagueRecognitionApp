@@ -19,3 +19,6 @@ Aplicativo desenvolvido em Xamarin.Forms (iOS e Android) com CustomVision para r
 
 #### Prague
 ![image](https://user-images.githubusercontent.com/52722526/160287199-c1d55d69-1870-4575-bd1a-e9acf7afcac3.png)
+
+### Performace
+![image](https://user-images.githubusercontent.com/52722526/160289685-31dd8857-9365-44da-b1db-d0f35485187b.png)
