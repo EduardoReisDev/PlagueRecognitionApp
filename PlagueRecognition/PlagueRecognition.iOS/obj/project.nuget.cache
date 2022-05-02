@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yP45MTfIzhlHOfnE7QHyYzGRJi8/beGlPP8YmzroucNkX4g8rrbKPd9OoUEBjSJZVg6pPk4Jp0RKcP9usO4Shg==",
+  "dgSpecHash": "tKupEULA7bzmsnrW0qVRRG1HC2ID9aDgYUcvq5/LKIEUd4OnhDKtN8TF43xYpeVoshG3jdNiltQRlzzrKcBmlw==",
   "success": true,
   "projectFilePath": "/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.iOS/PlagueRecognition.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/eduardoreis/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
-    "/Users/eduardoreis/.nuget/packages/xamarin.essentials/1.7.1/xamarin.essentials.1.7.1.nupkg.sha512",
-    "/Users/eduardoreis/.nuget/packages/xamarin.forms/5.0.0.2337/xamarin.forms.5.0.0.2337.nupkg.sha512"
+    "/Users/eduardoreis/.nuget/packages/xamarin.essentials/1.7.2/xamarin.essentials.1.7.2.nupkg.sha512",
+    "/Users/eduardoreis/.nuget/packages/xamarin.forms/5.0.0.2401/xamarin.forms.5.0.0.2401.nupkg.sha512"
   ],
   "logs": []
 }

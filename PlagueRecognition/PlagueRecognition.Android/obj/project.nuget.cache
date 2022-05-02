@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xYRddHg/Mt/38FsXJHLcctjjcizl42qQpBBplKQNTyUU4G4F1IDS4hf8QjpkbogeorYWBT4vqJxDtCpDcuoEhg==",
+  "dgSpecHash": "Gewq7FTpGG9Z7BU/jCqJTGn0CjgmZdsGYPzQTx2PHcuOvMNmoMWh5ZxHgr1g7Hncn8ZPH7jfJJ+u0VGQbz5SkA==",
   "success": true,
   "projectFilePath": "/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.Android/PlagueRecognition.Android.csproj",
   "expectedPackageFiles": [
@@ -59,8 +59,8 @@
     "/Users/eduardoreis/.nuget/packages/xamarin.androidx.versionedparcelable/1.1.1.8/xamarin.androidx.versionedparcelable.1.1.1.8.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/xamarin.androidx.viewpager/1.0.0.8/xamarin.androidx.viewpager.1.0.0.8.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/xamarin.androidx.viewpager2/1.0.0.10/xamarin.androidx.viewpager2.1.0.0.10.nupkg.sha512",
-    "/Users/eduardoreis/.nuget/packages/xamarin.essentials/1.7.1/xamarin.essentials.1.7.1.nupkg.sha512",
-    "/Users/eduardoreis/.nuget/packages/xamarin.forms/5.0.0.2337/xamarin.forms.5.0.0.2337.nupkg.sha512",
+    "/Users/eduardoreis/.nuget/packages/xamarin.essentials/1.7.2/xamarin.essentials.1.7.2.nupkg.sha512",
+    "/Users/eduardoreis/.nuget/packages/xamarin.forms/5.0.0.2401/xamarin.forms.5.0.0.2401.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/xamarin.google.android.material/1.4.0.2/xamarin.google.android.material.1.4.0.2.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/xamarin.google.guava.listenablefuture/1.0.0.2/xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512"
   ],
