@@ -1054,11 +1054,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition.iOS/PlagueRecognition.iOS.csproj",
+      "projectUniqueName": "/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.iOS/PlagueRecognition.iOS.csproj",
       "projectName": "PlagueRecognition.iOS",
-      "projectPath": "/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition.iOS/PlagueRecognition.iOS.csproj",
+      "projectPath": "/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.iOS/PlagueRecognition.iOS.csproj",
       "packagesPath": "/Users/eduardoreis/.nuget/packages/",
-      "outputPath": "/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition.iOS/obj/",
+      "outputPath": "/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1073,8 +1073,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition/PlagueRecognition.csproj": {
-              "projectPath": "/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition/PlagueRecognition.csproj"
+            "/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition/PlagueRecognition.csproj": {
+              "projectPath": "/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition/PlagueRecognition.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition/PlagueRecognition.csproj": {}
+    "/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition/PlagueRecognition.csproj": {}
   },
   "projects": {
-    "/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition/PlagueRecognition.csproj": {
+    "/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition/PlagueRecognition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition/PlagueRecognition.csproj",
+        "projectUniqueName": "/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition/PlagueRecognition.csproj",
         "projectName": "PlagueRecognition",
-        "projectPath": "/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition/PlagueRecognition.csproj",
+        "projectPath": "/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition/PlagueRecognition.csproj",
         "packagesPath": "/Users/eduardoreis/.nuget/packages/",
-        "outputPath": "/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition/obj/",
+        "outputPath": "/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/eduardoreis/.config/NuGet/NuGet.Config"
@@ -68,7 +68,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

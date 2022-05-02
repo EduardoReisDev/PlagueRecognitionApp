@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n5j1trpZIkGeBcS3hmfm5eBNlfi0FfH/9WaKbfmou5ln59QB8KuB0ZD85u6OiB35DBMKxKASyx3bptRet0EQNg==",
+  "dgSpecHash": "yP45MTfIzhlHOfnE7QHyYzGRJi8/beGlPP8YmzroucNkX4g8rrbKPd9OoUEBjSJZVg6pPk4Jp0RKcP9usO4Shg==",
   "success": true,
-  "projectFilePath": "/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition.iOS/PlagueRecognition.iOS.csproj",
+  "projectFilePath": "/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.iOS/PlagueRecognition.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/eduardoreis/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",

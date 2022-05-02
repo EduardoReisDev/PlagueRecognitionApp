@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ka19B25NeDELus71lQEUa7pYzA4xa9WLhw7GaU74cbm4S+4T+lkWgcTIwiSdq1fHcRoubihlrT+QG19mnu8avA==",
+  "dgSpecHash": "xYRddHg/Mt/38FsXJHLcctjjcizl42qQpBBplKQNTyUU4G4F1IDS4hf8QjpkbogeorYWBT4vqJxDtCpDcuoEhg==",
   "success": true,
-  "projectFilePath": "/Users/eduardoreis/Projects/PlagueRecognition/PlagueRecognition/PlagueRecognition.Android/PlagueRecognition.Android.csproj",
+  "projectFilePath": "/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.Android/PlagueRecognition.Android.csproj",
   "expectedPackageFiles": [
     "/Users/eduardoreis/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
