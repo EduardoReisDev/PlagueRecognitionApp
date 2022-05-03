@@ -1,13 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "tKupEULA7bzmsnrW0qVRRG1HC2ID9aDgYUcvq5/LKIEUd4OnhDKtN8TF43xYpeVoshG3jdNiltQRlzzrKcBmlw==",
+  "dgSpecHash": "wm6CPfyXuGoOJFbi+VArcMwcJZzAQhjj4WDfYIqDZjTJZ3tY3Ax3WnuQRvebwYkxirDhfA+g16v4gQel1IM+xA==",
   "success": true,
   "projectFilePath": "/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.iOS/PlagueRecognition.iOS.csproj",
   "expectedPackageFiles": [
-    "/Users/eduardoreis/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/eduardoreis/.nuget/packages/httpextension/1.2.0/httpextension.1.2.0.nupkg.sha512",
+    "/Users/eduardoreis/.nuget/packages/microsoft.azure.cognitiveservices.vision.customvision.prediction/1.0.0/microsoft.azure.cognitiveservices.vision.customvision.prediction.1.0.0.nupkg.sha512",
+    "/Users/eduardoreis/.nuget/packages/microsoft.azure.cognitiveservices.vision.customvision.training/1.0.0/microsoft.azure.cognitiveservices.vision.customvision.training.1.0.0.nupkg.sha512",
+    "/Users/eduardoreis/.nuget/packages/microsoft.rest.clientruntime/2.3.19/microsoft.rest.clientruntime.2.3.19.nupkg.sha512",
+    "/Users/eduardoreis/.nuget/packages/microsoft.rest.clientruntime.azure/3.3.19/microsoft.rest.clientruntime.azure.3.3.19.nupkg.sha512",
+    "/Users/eduardoreis/.nuget/packages/newtonsoft.json/12.0.1/newtonsoft.json.12.0.1.nupkg.sha512",
+    "/Users/eduardoreis/.nuget/packages/system.net.http/4.3.0/system.net.http.4.3.0.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/eduardoreis/.nuget/packages/xam.plugin.media/5.0.1/xam.plugin.media.5.0.1.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/xamarin.essentials/1.7.2/xamarin.essentials.1.7.2.nupkg.sha512",
-    "/Users/eduardoreis/.nuget/packages/xamarin.forms/5.0.0.2401/xamarin.forms.5.0.0.2401.nupkg.sha512"
+    "/Users/eduardoreis/.nuget/packages/xamarin.forms/5.0.0.2401/xamarin.forms.5.0.0.2401.nupkg.sha512",
+    "/Users/eduardoreis/.nuget/packages/xamarin.helpers/1.1.0/xamarin.helpers.1.1.0.nupkg.sha512"
   ],
   "logs": []
 }

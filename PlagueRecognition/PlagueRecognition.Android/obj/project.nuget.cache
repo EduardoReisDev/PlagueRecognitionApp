@@ -1,11 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "Gewq7FTpGG9Z7BU/jCqJTGn0CjgmZdsGYPzQTx2PHcuOvMNmoMWh5ZxHgr1g7Hncn8ZPH7jfJJ+u0VGQbz5SkA==",
+  "dgSpecHash": "12ddw7cS0GTwQbDf+gIr9S30cehqNwOnqsoy7x1Z+32F9svsindCiY+YY3JXHU+C+b+EIu7pZmpmOcXnshlvmA==",
   "success": true,
   "projectFilePath": "/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.Android/PlagueRecognition.Android.csproj",
   "expectedPackageFiles": [
-    "/Users/eduardoreis/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/eduardoreis/.nuget/packages/httpextension/1.2.0/httpextension.1.2.0.nupkg.sha512",
+    "/Users/eduardoreis/.nuget/packages/microsoft.azure.cognitiveservices.vision.customvision.prediction/1.0.0/microsoft.azure.cognitiveservices.vision.customvision.prediction.1.0.0.nupkg.sha512",
+    "/Users/eduardoreis/.nuget/packages/microsoft.azure.cognitiveservices.vision.customvision.training/1.0.0/microsoft.azure.cognitiveservices.vision.customvision.training.1.0.0.nupkg.sha512",
+    "/Users/eduardoreis/.nuget/packages/microsoft.rest.clientruntime/2.3.19/microsoft.rest.clientruntime.2.3.19.nupkg.sha512",
+    "/Users/eduardoreis/.nuget/packages/microsoft.rest.clientruntime.azure/3.3.19/microsoft.rest.clientruntime.azure.3.3.19.nupkg.sha512",
+    "/Users/eduardoreis/.nuget/packages/newtonsoft.json/12.0.1/newtonsoft.json.12.0.1.nupkg.sha512",
+    "/Users/eduardoreis/.nuget/packages/system.net.http/4.3.0/system.net.http.4.3.0.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/eduardoreis/.nuget/packages/xam.plugin.media/5.0.1/xam.plugin.media.5.0.1.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/xamarin.androidx.activity/1.2.4.1/xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/xamarin.androidx.annotation/1.2.0.1/xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/xamarin.androidx.annotation.experimental/1.1.0.1/xamarin.androidx.annotation.experimental.1.1.0.1.nupkg.sha512",
@@ -62,7 +69,8 @@
     "/Users/eduardoreis/.nuget/packages/xamarin.essentials/1.7.2/xamarin.essentials.1.7.2.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/xamarin.forms/5.0.0.2401/xamarin.forms.5.0.0.2401.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/xamarin.google.android.material/1.4.0.2/xamarin.google.android.material.1.4.0.2.nupkg.sha512",
-    "/Users/eduardoreis/.nuget/packages/xamarin.google.guava.listenablefuture/1.0.0.2/xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512"
+    "/Users/eduardoreis/.nuget/packages/xamarin.google.guava.listenablefuture/1.0.0.2/xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512",
+    "/Users/eduardoreis/.nuget/packages/xamarin.helpers/1.1.0/xamarin.helpers.1.1.0.nupkg.sha512"
   ],
   "logs": []
 }

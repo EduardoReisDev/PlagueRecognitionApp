@@ -1,8 +1,9 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+    <GenerateErrorForMissingTargetingPacks>false</GenerateErrorForMissingTargetingPacks>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
@@ -13,7 +14,10 @@
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2401" />
     <PackageReference Include="Xamarin.Essentials" Version="1.7.2" />
-    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Xam.Plugin.Media" Version="5.0.1" />
+    <PackageReference Include="Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction" Version="1.0.0" />
+    <PackageReference Include="Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training" Version="1.0.0" />
+    <PackageReference Include="Xamarin.Helpers" Version="1.1.0" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="View\" />
@@ -21,11 +25,17 @@
     <None Remove="Constants\" />
     <None Remove="Model\" />
     <None Remove="Newtonsoft.Json" />
+    <None Remove="Xam.Plugin.Media" />
+    <None Remove="Service\" />
+    <None Remove="Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction" />
+    <None Remove="Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training" />
+    <None Remove="Xamarin.Helpers" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="View\" />
     <Folder Include="ViewModel\" />
     <Folder Include="Constants\" />
     <Folder Include="Model\" />
+    <Folder Include="Service\" />
   </ItemGroup>
 </Project>

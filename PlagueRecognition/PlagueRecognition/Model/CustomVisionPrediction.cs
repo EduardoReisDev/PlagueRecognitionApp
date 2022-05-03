@@ -3,7 +3,7 @@ using Newtonsoft.Json;
 
 namespace PlagueRecognition.Model
 {
-    public class CustomVisionPrediction
+    public partial class CustomVisionPrediction
     {
         [JsonProperty("id")]
         public Guid Id { get; set; }

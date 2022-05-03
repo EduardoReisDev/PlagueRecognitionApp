@@ -3,7 +3,7 @@ using Newtonsoft.Json;
 
 namespace PlagueRecognition.Model
 {
-    public class Prediction
+    public partial class Prediction
     {
         [JsonProperty("probability")]
         public double Probability { get; set; }
