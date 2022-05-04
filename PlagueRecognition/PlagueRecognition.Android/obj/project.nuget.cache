@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "12ddw7cS0GTwQbDf+gIr9S30cehqNwOnqsoy7x1Z+32F9svsindCiY+YY3JXHU+C+b+EIu7pZmpmOcXnshlvmA==",
+  "dgSpecHash": "rO+S+7TyFB3Bjdc4sXyJagLoiQG1uexst+97cEOCDClnuctJwwnIr3ngNhurIz0hTfRRQTysbItOIkgob7umvg==",
   "success": true,
   "projectFilePath": "/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.Android/PlagueRecognition.Android.csproj",
   "expectedPackageFiles": [
     "/Users/eduardoreis/.nuget/packages/httpextension/1.2.0/httpextension.1.2.0.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/microsoft.azure.cognitiveservices.vision.customvision.prediction/1.0.0/microsoft.azure.cognitiveservices.vision.customvision.prediction.1.0.0.nupkg.sha512",
-    "/Users/eduardoreis/.nuget/packages/microsoft.azure.cognitiveservices.vision.customvision.training/1.0.0/microsoft.azure.cognitiveservices.vision.customvision.training.1.0.0.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/microsoft.rest.clientruntime/2.3.19/microsoft.rest.clientruntime.2.3.19.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/microsoft.rest.clientruntime.azure/3.3.19/microsoft.rest.clientruntime.azure.3.3.19.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/newtonsoft.json/12.0.1/newtonsoft.json.12.0.1.nupkg.sha512",

@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "vuK4K8rp9tEM67wdOGkGpWh0EWivcQ05+mEXRbiGX6D4adTOzxPZY5/tzlN44Vljb3I37pSAgfsZG5JFAEQIWA==",
+  "dgSpecHash": "HfVoL913CGYLs71bsg6P3DriCsclGHUIutGcZrM778R538wrC5gyBdWIxuDMj1XFt6T/qV37JUq91OxPhZBagA==",
   "success": true,
   "projectFilePath": "/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition/PlagueRecognition.csproj",
   "expectedPackageFiles": [
     "/Users/eduardoreis/.nuget/packages/httpextension/1.2.0/httpextension.1.2.0.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/microsoft.azure.cognitiveservices.vision.customvision.prediction/1.0.0/microsoft.azure.cognitiveservices.vision.customvision.prediction.1.0.0.nupkg.sha512",
-    "/Users/eduardoreis/.nuget/packages/microsoft.azure.cognitiveservices.vision.customvision.training/1.0.0/microsoft.azure.cognitiveservices.vision.customvision.training.1.0.0.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/microsoft.rest.clientruntime/2.3.19/microsoft.rest.clientruntime.2.3.19.nupkg.sha512",

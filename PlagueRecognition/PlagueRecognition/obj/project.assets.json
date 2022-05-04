@@ -29,21 +29,6 @@
           "lib/netstandard2.0/Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction.dll": {}
         }
       },
-      "Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.Rest.ClientRuntime": "[2.3.19, 3.0.0)",
-          "Microsoft.Rest.ClientRuntime.Azure": "[3.3.19, 4.0.0)",
-          "Newtonsoft.Json": "10.0.3",
-          "System.Net.Http": "4.3.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.dll": {}
-        }
-      },
       "Microsoft.NETCore.Platforms/1.1.0": {
         "type": "package",
         "compile": {
@@ -947,29 +932,6 @@
         "lib/netstandard2.0/Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction.xml",
         "microsoft.azure.cognitiveservices.vision.customvision.prediction.1.0.0.nupkg.sha512",
         "microsoft.azure.cognitiveservices.vision.customvision.prediction.nuspec"
-      ]
-    },
-    "Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training/1.0.0": {
-      "sha512": "L+kPQdrBiNLXgLLKVjtjWzoXsRUGCRw83ARxe8dMveRkgXoDJw55tcBn1dmL0qhLyk+Sq3H4e5eKmqwPVRWT3g==",
-      "type": "package",
-      "path": "microsoft.azure.cognitiveservices.vision.customvision.training/1.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net452/Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.dll",
-        "lib/net452/Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.runtimeconfig.json",
-        "lib/net452/Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.xml",
-        "lib/net461/Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.dll",
-        "lib/net461/Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.runtimeconfig.json",
-        "lib/net461/Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.xml",
-        "lib/netstandard1.4/Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.dll",
-        "lib/netstandard1.4/Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.runtimeconfig.json",
-        "lib/netstandard1.4/Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.xml",
-        "lib/netstandard2.0/Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.dll",
-        "lib/netstandard2.0/Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.runtimeconfig.json",
-        "lib/netstandard2.0/Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.xml",
-        "microsoft.azure.cognitiveservices.vision.customvision.training.1.0.0.nupkg.sha512",
-        "microsoft.azure.cognitiveservices.vision.customvision.training.nuspec"
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
@@ -3646,7 +3608,6 @@
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction >= 1.0.0",
-      "Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training >= 1.0.0",
       "NETStandard.Library >= 2.0.3",
       "Xam.Plugin.Media >= 5.0.1",
       "Xamarin.Essentials >= 1.7.2",
@@ -3693,10 +3654,6 @@
         "targetAlias": "netstandard2.0",
         "dependencies": {
           "Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction": {
-            "target": "Package",
-            "version": "[1.0.0, )"
-          },
-          "Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training": {
             "target": "Package",
             "version": "[1.0.0, )"
           },

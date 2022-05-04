@@ -43,10 +43,6 @@
               "target": "Package",
               "version": "[1.0.0, )"
             },
-            "Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training": {
-              "target": "Package",
-              "version": "[1.0.0, )"
-            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

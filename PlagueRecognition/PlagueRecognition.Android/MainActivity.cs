@@ -4,6 +4,7 @@ using Android.App;
 using Android.Content.PM;
 using Android.Runtime;
 using Android.OS;
+using Plugin.Media;
 
 namespace PlagueRecognition.Droid
 {
@@ -14,6 +15,7 @@ namespace PlagueRecognition.Droid
         {
             base.OnCreate(savedInstanceState);
 
+            CrossMedia.Current.Initialize();
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             LoadApplication(new App());

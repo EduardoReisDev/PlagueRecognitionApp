@@ -134,3 +134,12 @@
 /Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.iOS/obj/iPhoneSimulator/Debug/PlagueRecognition.iOS.csproj.CopyComplete
 /Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.iOS/obj/iPhoneSimulator/Debug/PlagueRecognition.iOS.exe
 /Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.iOS/obj/iPhoneSimulator/Debug/PlagueRecognition.iOS.pdb
+/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.iOS/bin/iPhoneSimulator/Debug/HttpExtension.dll
+/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.iOS/bin/iPhoneSimulator/Debug/Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction.dll
+/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.iOS/bin/iPhoneSimulator/Debug/Microsoft.Rest.ClientRuntime.dll
+/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.iOS/bin/iPhoneSimulator/Debug/Microsoft.Rest.ClientRuntime.Azure.dll
+/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.pdb
+/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.iOS/bin/iPhoneSimulator/Debug/System.Net.Http.dll
+/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.iOS/bin/iPhoneSimulator/Debug/Plugin.Media.dll
+/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.iOS/bin/iPhoneSimulator/Debug/Plugin.Media.pdb
+/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.iOS/bin/iPhoneSimulator/Debug/Xamarin.Helpers.dll

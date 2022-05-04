@@ -4,8 +4,13 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "PlagueRecognition.Android.dll" comes first in this list. */
 		"PlagueRecognition.Android.dll",
 		"FormsViewGroup.dll",
+		"HttpExtension.dll",
+		"Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction.dll",
+		"Microsoft.Rest.ClientRuntime.Azure.dll",
+		"Microsoft.Rest.ClientRuntime.dll",
 		"Newtonsoft.Json.dll",
 		"PlagueRecognition.dll",
+		"Plugin.Media.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",
 		"Xamarin.AndroidX.Annotation.Experimental.dll",
@@ -65,6 +70,7 @@ public class MonoPackageManager_Resources {
 		"Xamarin.Forms.Xaml.dll",
 		"Xamarin.Google.Android.Material.dll",
 		"Xamarin.Google.Guava.ListenableFuture.dll",
+		"Xamarin.Helpers.dll",
 	};
 	public static String[] Dependencies = new String[]{
 	};
