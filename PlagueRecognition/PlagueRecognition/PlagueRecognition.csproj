@@ -17,6 +17,7 @@
     <PackageReference Include="Xam.Plugin.Media" Version="5.0.1" />
     <PackageReference Include="Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction" Version="1.0.0" />
     <PackageReference Include="Xamarin.Helpers" Version="1.1.0" />
+    <PackageReference Include="Plugin.Permissions" Version="6.0.1" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="View\" />
@@ -29,6 +30,7 @@
     <None Remove="Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction" />
     <None Remove="Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training" />
     <None Remove="Xamarin.Helpers" />
+    <None Remove="Plugin.Permissions" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="View\" />

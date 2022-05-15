@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HfVoL913CGYLs71bsg6P3DriCsclGHUIutGcZrM778R538wrC5gyBdWIxuDMj1XFt6T/qV37JUq91OxPhZBagA==",
+  "dgSpecHash": "x0lqb7GSA7ta/x7bd+AQYblk92xLHzdDAGjaq8kozocxiJFaMs8rP814YQmt6wpUc21RvxOz2y+i5GlPVawWGg==",
   "success": true,
   "projectFilePath": "/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition/PlagueRecognition.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "/Users/eduardoreis/.nuget/packages/microsoft.rest.clientruntime.azure/3.3.19/microsoft.rest.clientruntime.azure.3.3.19.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/newtonsoft.json/12.0.1/newtonsoft.json.12.0.1.nupkg.sha512",
+    "/Users/eduardoreis/.nuget/packages/plugin.permissions/6.0.1/plugin.permissions.6.0.1.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",

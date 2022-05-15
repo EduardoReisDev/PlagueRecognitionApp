@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "o90RJRZNnpAes0Ddq317rH8iKgfaJA8w2E7vfWKF54FrMmZO4WW7OIT+vt4YGj70UMo6wG0/sJ9Td+XgL9X0+w==",
+  "dgSpecHash": "vo4Ve4ew74bMBCO027Xe4hpzxQXF5LzxoJPcE3xLQD7NyK70/NT9MTDFVwqKvHIClSRvyep1YvyEDLIFrS5p9A==",
   "success": true,
   "projectFilePath": "/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.iOS/PlagueRecognition.iOS.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "/Users/eduardoreis/.nuget/packages/microsoft.rest.clientruntime/2.3.19/microsoft.rest.clientruntime.2.3.19.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/microsoft.rest.clientruntime.azure/3.3.19/microsoft.rest.clientruntime.azure.3.3.19.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/newtonsoft.json/12.0.1/newtonsoft.json.12.0.1.nupkg.sha512",
+    "/Users/eduardoreis/.nuget/packages/plugin.permissions/6.0.1/plugin.permissions.6.0.1.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/system.net.http/4.3.0/system.net.http.4.3.0.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/eduardoreis/.nuget/packages/xam.plugin.media/5.0.1/xam.plugin.media.5.0.1.nupkg.sha512",

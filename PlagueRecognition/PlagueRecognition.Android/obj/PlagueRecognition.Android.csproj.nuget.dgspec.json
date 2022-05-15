@@ -36,6 +36,10 @@
       "frameworks": {
         "monoandroid11.0": {
           "dependencies": {
+            "Plugin.Permissions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
             "Xam.Plugin.Media": {
               "target": "Package",
               "version": "[5.0.1, )"
@@ -97,6 +101,10 @@
               "version": "[2.0.3, )",
               "autoReferenced": true
             },
+            "Plugin.Permissions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
             "Xam.Plugin.Media": {
               "target": "Package",
               "version": "[5.0.1, )"
@@ -124,7 +132,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }

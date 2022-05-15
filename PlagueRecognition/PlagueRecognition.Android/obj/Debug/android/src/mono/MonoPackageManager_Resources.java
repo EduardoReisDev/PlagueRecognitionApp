@@ -11,6 +11,7 @@ public class MonoPackageManager_Resources {
 		"Newtonsoft.Json.dll",
 		"PlagueRecognition.dll",
 		"Plugin.Media.dll",
+		"Plugin.Permissions.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",
 		"Xamarin.AndroidX.Annotation.Experimental.dll",
