@@ -73,7 +73,6 @@
 /Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.Android/obj/Debug/android/assets/FormsViewGroup.pdb
 /Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.Android/obj/Debug/android/assets/HttpExtension.dll
 /Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.Android/obj/Debug/android/assets/Java.Interop.dll
-/Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.Android/obj/Debug/android/assets/Java.Interop.pdb
 /Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.Android/obj/Debug/android/assets/Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction.dll
 /Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.Android/obj/Debug/android/assets/Microsoft.Rest.ClientRuntime.Azure.dll
 /Users/eduardoreis/Projects/PlagueRecognitionApp/PlagueRecognition/PlagueRecognition.Android/obj/Debug/android/assets/Microsoft.Rest.ClientRuntime.dll
